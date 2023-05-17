@@ -125,7 +125,7 @@ h1 {
     padding-right: 0;
 }
 
-.products-list h3 {
+.product-block h3 {
     color: var(--menu-font-color);
     margin: 20px 0 60px;
     font-size: 14px;
